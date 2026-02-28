@@ -1,4 +1,4 @@
-======================= University Course Registration System =============================================
+======= University Course Registration System ==========
 A full-stack web-based course registration system designed to replicate and improve the functionality of a traditional university portal.
 This project features two separate portals:
 * A Student Portal
